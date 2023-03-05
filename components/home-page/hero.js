@@ -10,12 +10,13 @@ function Hero() {
           alt="An image showing Lee"
           width={300}
           height={300}
+          priority
         />
       </div>
       <h1>Hi, I'm Lee</h1>
       <p>
         I blog about web development - especially frontend frameworks like
-        React.
+        React and NextJS.
       </p>
     </section>
   );

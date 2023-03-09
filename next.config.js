@@ -12,7 +12,7 @@ module.exports = (phase) => {
         mongodb_clustername: "cluster0",
         mongodb_database: "my-blog-dev",
       },
-    };
+    }
   }
 
   return {

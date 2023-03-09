@@ -6,7 +6,7 @@ function ContactPage() {
   return (
     <Fragment>
       <Head>
-        <title>COntact Me</title>
+        <title>Contact Me</title>
         <meta name="description" content="Send me your messages." />
       </Head>
       <ContactForm />

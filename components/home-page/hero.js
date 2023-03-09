@@ -13,7 +13,7 @@ function Hero() {
           priority
         />
       </div>
-      <h1>Hi, I'm Lee</h1>
+      <h1>Hi, I&apos;m Lee</h1>
       <p>
         I blog about web development - especially frontend frameworks like
         React and NextJS.
